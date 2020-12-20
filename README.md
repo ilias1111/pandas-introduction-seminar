@@ -1,1 +1,1 @@
-# pandas-introduction-seminar
+# How to train your pandas
